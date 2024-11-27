@@ -1,7 +1,11 @@
 # Dot Product
 
-MP Specifications:
+#### MP Specifications:
 ![specifications](./images/specs.png)
+
+#### Group Members:
+1. Nigel Roi Nograles
+2. Aira Jin Garganera
 
 ## Files
 
