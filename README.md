@@ -15,8 +15,10 @@ MP Specifications:
     specs.png
     exec_times.png
     avg_exec_times.png
-/video
-    demo.mp4
+    corr_check_r20.png
+    corr_check_r24.png
+    corr_check_r30.png
+    demo_thumbnail.png
 README.md
 ```
 
