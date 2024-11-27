@@ -43,8 +43,6 @@ The results for the average execution times are as follows:
 
 The results show that the assembly program runs significantly faster than the C program consistently throughout the different vector sizes. This is because the assembly program is directly converted into machine code with an assembler [[1]](https://www.geeksforgeeks.org/introduction-of-assembler/), whereas the C program would have to be compiled first (with a compiler) into assembly-level instructions, before being assembled into machine code [[2]](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/). This additional step would contribute to slower execution, especially in larger vectors.
 
-We can see through the results that as the vector size <b>increase</b>, the gap between execution times also <b>increases</b>.
-
 ## Program Output
 
 For validation, a correctness check was performed by ensuring that both the C and assembly programs had the same output for the dot product. 
